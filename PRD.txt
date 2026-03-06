@@ -1,0 +1,40 @@
+Printify: PRINTING MANAGEMENT SYSTEM
+
+1. Project Overview: Describe the application
+	
+The Printing Management System is a computer system for printing shops will be using FastAPI only to handle the backend. It aims to help the shop owners record their daily transactions 
+and monitor daily shop activities. The system will replace manual computation and manual transaction logging to prevent financial losses caused by manual computations.
+
+2. Problem Statement:
+
+The client currently manages printing transactions manually by using a notebook or paper. This creates various problems: 
+
+    Manual logging for customers' orders, like the quantity and its price
+    Computation errors when calculating the total costs
+    Duplicate counting of printing activities
+    Not accurate daily income tracking cause of losses
+    Incorrect or not clear records
+
+3. Objectives List System goals
+
+The system's goal is to:
+
+    Remove manual computation errors
+    Automatically compute the total cost per transaction
+    Prevent duplicate transaction entries
+    Increase the efficiency of transaction recording
+    See transaction status
+    Display precise order results
+
+4. Users: Primary users of the system
+
+System users:
+
+    Printing shop owners - owner of the business
+    Staff / Cashier - manages orders and work
+    Clients - the one who will ask for the business services
+
+Printing Prices:
+Black and White: PHP 2.00/page
+Colored: PHP 5.00/page
+Photo Paper: PHP 30.00/page
